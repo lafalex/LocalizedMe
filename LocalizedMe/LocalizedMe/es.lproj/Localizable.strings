@@ -1,2 +1,4 @@
-"hello" = "Buon todos!";
+"hello" = "¡Hola y bienvenido a la aplicación!";
 "information" = "Esta es una magnífica aplicación";
+"task" = "Por favor presione el botón para continuar";
+"pushme" = "Empujarme";
