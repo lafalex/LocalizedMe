@@ -12,6 +12,10 @@ struct ContentView: View {
         VStack(spacing: 20) {
             Text("hello")
             Text("information")
+            Text("task")
+            Button("pushme") {
+                print("congrats")
+            }
         }
         .padding()
     }
@@ -20,6 +24,6 @@ struct ContentView: View {
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
-            .environment(\.locale, .init(identifier: "es"))
+            .environment(\.locale, .init(identifier: "en"))
     }
 }
