@@ -1,13 +1,4 @@
-/* 
-  Localizable.strings
-  LocalizedMe
-
-  Created by Alexandre Lafosse on 03/06/2022.
-  
-*/
 "hello" = "Hello, and welcome on the app!";
 "information" = "This is a great app";
 "task" = "Please push the button to continue";
 "pushme" = "Push me";
-
-
